@@ -1,0 +1,15 @@
+h1
+{
+    text-align: center;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:40;
+    background-color: green;
+}
+
+h3
+{
+    margin-left: 75 px;
+    color: gray;
+    font-size: 25;
+}
